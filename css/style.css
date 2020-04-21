@@ -420,18 +420,21 @@
 	height:558px;	
 	background: url(../imgs/rrss/rrss_1.jpg) center top no-repeat;
 	background-size: cover;
+	margin-bottom: 0 !important;
 }
 
 .section-rrss2 {
 	height:558px;	
 	background: url(../imgs/rrss/rrss_2.jpg) center top no-repeat;
 	background-size: cover;
+	margin-bottom: 0 !important;
 }
 
 .section-rrss3 {
 	height:558px;	
 	background: url(../imgs/rrss/rrss_3.jpg) center top no-repeat;
 	background-size: cover;
+	margin-bottom: 0 !important;
 }
 
 .section-datas {
@@ -463,10 +466,15 @@
 	margin:0 12px;
 }
 
+/*sección mapa*/
+.map {
+	margin-bottom: 0 !important;
+}
+
 /*caracterizando footer*/
 footer {
-	margin: 0 auto;
 	height:228px;
+	margin: 0 auto;
 }
 
 span {
