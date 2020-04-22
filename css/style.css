@@ -4,6 +4,11 @@
 	font-family: 'Montserrat', sans-serif;
  }
 
+ html {
+ 	margin: 0;
+	padding: 0;
+ }
+
 /*definiendo colores de texto y fondo*/
 .text-blue {
 	color: #222f3e;	
@@ -423,6 +428,10 @@
 	margin-bottom: 0 !important;
 }
 
+.address {
+	margin: margin-bottom: 0!important;
+}
+
 .section-rrss2 {
 	height:558px;	
 	background: url(../imgs/rrss/rrss_2.jpg) center top no-repeat;
@@ -434,7 +443,7 @@
 	height:558px;	
 	background: url(../imgs/rrss/rrss_3.jpg) center top no-repeat;
 	background-size: cover;
-	margin-bottom: 0 !important;
+	margin-bottom: 0!important;
 }
 
 .section-datas {
@@ -474,7 +483,7 @@
 /*caracterizando footer*/
 footer {
 	height:228px;
-	margin: 0 auto;
+	margin: 0 auto;	
 }
 
 span {
