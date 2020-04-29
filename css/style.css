@@ -75,8 +75,13 @@
 }
 
 .subtitle-paragraph {
-	fon-weight: 400;
+	font-weight: 400;
 	font-size: 19px;
+}
+
+.sub-paragraph {
+	font-weight: 400;
+	font-size: 16px;
 }
 
 .paragraph {
@@ -92,13 +97,6 @@
 
 .border-snow {
 	background:#transparent;
-}
-
-#header-home section .title-header a:hover {
-	color: #fff !important; 
-	background-color: rgba(90, 159, 202, 1)!important;
-	border: 1px solid rgba(90, 159, 202, 1) !important;
-	border-radius:5px !important;
 }
 
 .border-snow:hover {
@@ -165,6 +163,7 @@
 #header-home {
 	background: url(../imgs/headers/home.jpg) center top no-repeat;
 	background-size: cover;
+	opacity: 0.8;
 }
 
 #header-about {
