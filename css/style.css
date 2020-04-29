@@ -94,8 +94,7 @@
 	background:#transparent;
 }
 
-
-.boton1:hover {
+#header-home section .title-header a:hover {
 	color: #fff !important; 
 	background-color: rgba(90, 159, 202, 1)!important;
 	border: 1px solid rgba(90, 159, 202, 1) !important;
