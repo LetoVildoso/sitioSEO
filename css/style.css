@@ -94,20 +94,20 @@
 	background:#transparent;
 }
 
-.boton1 {
+.title-header .boton1 {
 	width:100px;
 	height:50px;
-	color: #5A9FCA !important;;
+	color: rgba(90, 159, 202, 1) !important;
 	background-color:transparent !important;
-	font-size: 12 px !important;;
-	-webkit-border: 2px solid #5A9FCA !important;;
+	font-size: 12 px !important;
+	-webkit-border: 2px solid rgba(90, 159, 202, 1) !important;
 	-webkit-border-radius: 5px !important;
 }
 
-.boton1:hover {
+.title-header .boton1:hover {
 	color: #fff; 
-	background-color:#5a9fca!important;
-	-webkit-border: 2px solid #5A9FCA !important;
+	background-color: rgba(90, 159, 202, 1)!important;
+	-webkit-border: 2px solid rgba(90, 159, 202, 1) !important;
 	-webkit-border-radius:5px !important;
 }
 
