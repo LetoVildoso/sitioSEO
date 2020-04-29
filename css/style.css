@@ -90,11 +90,20 @@
 
 */Carcteristicas de los botones*/
 
-.border-sky, .border-snow {
+btn-sky, .border-snow {
 	background:#transparent;
 }
 
-.border-sky:hover {
+.btn-sky {
+	width:100%;
+	height:35px;
+	color: #5A9FCA;
+	border: 1px solid #5A9FCA;
+	border-radius:5px !important;
+	-webkit-border-radius: 5px !important;
+}
+
+.btn-sky:hover {
 	background-color:#5a9fca!important;
 	border: 1px solid #5A9FCA;
 	border-radius:5px !important;
@@ -122,9 +131,9 @@
 	color:#2c274f!important;
 }
 
-.btn-text-blue:hover {
+/*.btn-text-blue:hover {
 	color:#222f3e!important;
-}
+}*/
 
 .btn-contact1:hover, .btn-text-blue, .btn-contact-white, .btn-contact1:active, .btn-contact-text:hover, .btn-contact-text:active {
 	color: #fff!important;
