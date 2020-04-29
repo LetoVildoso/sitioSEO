@@ -90,20 +90,21 @@
 
 */Carcteristicas de los botones*/
 
-boton-sky, .border-snow {
+.border-snow {
 	background:#transparent;
 }
 
-.boton-sky {
+.boton1 {
 	width:100px;
 	height:50px;
-	color: #5A9FCA;
-	font-size: 12 px;
-	-webkit-border: 2px solid #5A9FCA;
+	color: #5A9FCA !important;;
+	background-color:transparent !important;
+	font-size: 12 px !important;;
+	-webkit-border: 2px solid #5A9FCA !important;;
 	-webkit-border-radius: 5px !important;
 }
 
-.boton-sky:hover {
+.boton1:hover {
 	color: #fff; 
 	background-color:#5a9fca!important;
 	-webkit-border: 2px solid #5A9FCA !important;
