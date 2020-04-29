@@ -94,7 +94,7 @@
 	background:#transparent;
 }
 
-a.boton1.text-decoration-none {
+a .boton1 .text-decoration-none {
 	color: rgba(90, 159, 202, 1) !important;
 	background-color:transparent !important;
 	padding: 10px !important;
@@ -103,7 +103,7 @@ a.boton1.text-decoration-none {
 	-webkit-border-radius: 5px !important;
 }
 
-a.boton1.text-decoration-none:hover {
+a .boton1 .text-decoration-none:hover {
 	color: #fff; 
 	background-color: rgba(90, 159, 202, 1)!important;
 	-webkit-border: 1px solid rgba(90, 159, 202, 1) !important;
