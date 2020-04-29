@@ -90,22 +90,22 @@
 
 */Carcteristicas de los botones*/
 
-btn-sky, .border-snow {
+boton-sky, .border-snow {
 	background:#transparent;
 }
 
-.btn-sky {
+.boton-sky {
 	width:100%;
 	height:35px;
 	color: #5A9FCA;
-	border: 1px solid #5A9FCA;
+	border: 2px solid #5A9FCA;
 	border-radius:5px !important;
 	-webkit-border-radius: 5px !important;
 }
 
-.btn-sky:hover {
+.boton-sky:hover {
 	background-color:#5a9fca!important;
-	border: 1px solid #5A9FCA;
+	border: 2px solid #5A9FCA !important;
 	border-radius:5px !important;
 	-webkit-border-radius: 5px !important;
 }
@@ -159,7 +159,7 @@ btn-sky, .border-snow {
 }
 
 .btn-text {
-	font-size: 12px;
+	font-size: 12px !important;
 }
 
 /*imagen de encabezados*/
