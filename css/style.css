@@ -23,6 +23,14 @@
 	text-shadow: 2px 2px #000;
 }
 
+.subsection-bg {
+	width: 600px;
+	padding:10px;
+	color: #fff;
+	background-color:#222f3e;	
+}
+
+
 .bold {
 	font-weight:700px;
 }
@@ -158,7 +166,6 @@
 #header-home {
 	background: url(//loretovildoso.diegocortes.cl/imgs/headers/home.jpg) center top no-repeat;
 	background-size: cover;
-	opacity: 0.8;
 }
 
 #header-about {
