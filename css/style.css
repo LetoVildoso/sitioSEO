@@ -30,12 +30,11 @@
 	background-color:#222f3e;	
 }
 
-
 .bold {
 	font-weight:700px;
 }
 
-.text-sky, .bg-sky {
+.text-sky {
 	color: #5a9fca!important;
 }
 
@@ -92,8 +91,15 @@
 	font-size: 14px;
 }
 
+.text-white {
+	color: #fff;
+}
 .project-type {
 	font-size: 80%;
+}
+
+.btn-text{
+	font-size:12px;
 }
 
 /*Caracterizando el menu*/
