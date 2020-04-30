@@ -18,11 +18,6 @@
 	background-color:#222f3e;	
 }
 
-.black-shadow {
-	color: #fff;
-	text-shadow: 2px 2px #000;
-}
-
 .subsection-bg {
 	width: 600px;
 	padding:10px;
@@ -91,15 +86,8 @@
 	font-size: 14px;
 }
 
-.text-white {
-	color: #fff;
-}
 .project-type {
 	font-size: 80%;
-}
-
-.btn-text{
-	font-size:12px;
 }
 
 /*Caracterizando el menu*/
@@ -121,6 +109,9 @@
 	color:#5a9fca !important;	
 }
 
+.btn-text {
+	font-size: 12px !important;
+}
 
 /*imagen de encabezados*/
 #header-home, #header-about { 
