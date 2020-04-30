@@ -96,41 +96,6 @@
 	font-size: 80%;
 }
 
-*/Carcteristicas de los botones*/
-
-.border-snow {
-	background:#transparent;
-}
-
-.border-snow:hover {
-	background-color:#fff!important;
-	border: 1px solid #fff;
-	border-radius:5px !important;
-	-webkit-border-radius: 5px !important;
-}
-
-.btn-contact1 {
-	padding-left:4px !important;
-	vertical-align: middle;
-}
-
-.btn-contact-text {
-	color:#5a9fca!important;
-	padding-left:17px!important;
-}
-
-.btn-contact-white:hover {
-	color:#2c274f!important;
-}
-
-/*.btn-text-blue:hover {
-	color:#222f3e!important;
-}*/
-
-.btn-contact1:hover, .btn-text-blue, .btn-contact-white, .btn-contact1:active, .btn-contact-text:hover, .btn-contact-text:active {
-	color: #fff!important;
-}
-
 /*Caracterizando el menu*/
 .item-box:hover, .active {
 	border-bottom:2px solid #5a9fca;
@@ -150,9 +115,6 @@
 	color:#5a9fca !important;	
 }
 
-.btn-text {
-	font-size: 12px !important;
-}
 
 /*imagen de encabezados*/
 #header-home, #header-about { 
@@ -198,6 +160,12 @@
 
 .view, .bold {
 	font-size: 14px;	
+}
+
+.view {
+	width:430px;
+	padding: 8px;
+	background-color:#222f3e;
 }
 
 .bold{
@@ -336,14 +304,6 @@
 
 .sp-position {
 	margin-left:140px;
-}
-
-.btn-portfolio {
-	padding-left:165px;
-}
-
-.btn-portfolio3 {
-	padding-left:625px;
 }
 
 .project, .work-box {
