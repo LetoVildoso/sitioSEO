@@ -156,23 +156,23 @@
 }
 
 #header-home {
-	background: url(../imgs/headers/home.jpg) center top no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/headers/home.jpg) center top no-repeat;
 	background-size: cover;
 	opacity: 0.8;
 }
 
 #header-about {
-	background: url(../imgs/headers/about.jpg) center top no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/headers/about.jpg) center top no-repeat;
 	background-size: cover;
 }
 
 #header-contact {
-	background: url(../imgs/headers/contact.jpg) center top no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/headers/contact.jpg) center top no-repeat;
 	background-size: cover;
 }
 
 #header-portfolio {
-	background: url(../imgs/headers/portfolio.jpg) center top no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/headers/portfolio.jpg) center top no-repeat;
 	background-size: cover;
 }
 
@@ -258,19 +258,19 @@
 }
 
 .color1:hover {
-	background: url(../imgs/services/services1.jpg) center no-repeat;	
+	background: url(//loretovildoso.diegocortes.cl/imgs/services/services1.jpg) center no-repeat;	
 }
 
 .color2:hover {
-	background: url(../imgs/services/services2.jpg) center no-repeat;	
+	background: url(//loretovildoso.diegocortes.cl/imgs/services/services2.jpg) center no-repeat;	
 }
 
 .color3:hover {
-	background: url(../imgs/services/services3.jpg) center no-repeat;	
+	background: url(//loretovildoso.diegocortes.cl/imgs/services/services3.jpg) center no-repeat;	
 }
 
 .color4:hover {
-	background: url(../imgs/services/services4.jpg) center no-repeat;	
+	background: url(//loretovildoso.diegocortes.cl/imgs/services/services4.jpg) center no-repeat;	
 }
 
 .icon-vector, .icon-curriculum {
@@ -309,7 +309,7 @@
 .parallax {
 	width: 100%;
 	height: 381px; /*parallax debe tener ancho y altura definida*/
-	background: url(../imgs/parallax-home.jpg) center no-repeat; /*img en css y sin repetición*/ 
+	background: url(//loretovildoso.diegocortes.cl/imgs/parallax-home.jpg) center no-repeat; /*img en css y sin repetición*/ 
 	background-attachment: fixed; /*imagen fija*/
 }
 
@@ -417,7 +417,7 @@
 
 .section-rrss {
 	height:558px;	
-	background: url(../imgs/rrss/rrss_1.jpg) center top no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/rrss/rrss_1.jpg) center top no-repeat;
 	background-size: cover;
 	margin-bottom: 0 !important;
 }
@@ -428,14 +428,14 @@
 
 .section-rrss2 {
 	height:558px;	
-	background: url(../imgs/rrss/rrss_2.jpg) center top no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/rrss/rrss_2.jpg) center top no-repeat;
 	background-size: cover;
 	margin-bottom: 0 !important;
 }
 
 .section-rrss3 {
 	height:558px;	
-	background: url(../imgs/rrss/rrss_3.jpg) center top no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/rrss/rrss_3.jpg) center top no-repeat;
 	background-size: cover;
 	margin-bottom: 0!important;
 }
@@ -447,7 +447,7 @@
 
 .rrss-contact {
 	height:150px;
-	background: url(../imgs/rrss/rrss_4.png) right no-repeat;
+	background: url(//loretovildoso.diegocortes.cl/imgs/rrss/rrss_4.png) right no-repeat;
 }
 
 .icon-rrss {
